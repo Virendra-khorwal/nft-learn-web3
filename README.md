@@ -1,13 +1,7 @@
-# Sample Hardhat Project
+# NFT-LEARN-WEB3
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+NFT contract address: 0x0F3d1ab367FA3279257dEE2404bB928b051D2d37
 
-Try running some of the following tasks:
+Check on: https://goerli.etherscan.io/
 
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
-```
+
